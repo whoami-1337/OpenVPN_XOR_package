@@ -8,7 +8,7 @@
 set -e  # Exit on any error
 
 # Configuration
-REPO_URL="https://github.com/Lunatik-cyber/OpenVPN_XOR_package.git"
+REPO_URL="https://github.com/whoami-1337/OpenVPN_XOR_package.git"
 REPO_NAME="OpenVPN_XOR_package"
 INSTALL_DIR="/tmp/openvpn_xor_install"
 LOGFILE="/tmp/openvpn_xor_install.log"
